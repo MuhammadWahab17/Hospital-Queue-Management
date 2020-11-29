@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  a4p3_aroosha
 //
 //  Created by Ch Muhammad Wahab on 27/11/2020.
 //  Copyright © 2020 Ch Muhammad Wahab. All rights reserved.
